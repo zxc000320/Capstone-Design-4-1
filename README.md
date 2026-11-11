@@ -115,6 +115,12 @@ VMware는 메인 PC마다 다른 대역을 할당하므로, 설치 환경에서 
 
 두 API 모두 로그인 세션이 필요합니다.
 
+## 시연영상
+
+[![시연영상](https://img.youtube.com/vi/bg_q8h1SsXI/hqdefault.jpg)](https://youtu.be/bg_q8h1SsXI)
+
+[▶ YouTube에서 보기](https://youtu.be/bg_q8h1SsXI)
+
 ## 팀
 
 - 지도교수: 강아름 교수님
